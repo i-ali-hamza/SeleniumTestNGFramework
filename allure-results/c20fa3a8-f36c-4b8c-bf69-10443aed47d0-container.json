@@ -1,0 +1,1 @@
+{"uuid":"c20fa3a8-f36c-4b8c-bf69-10443aed47d0","name":"com.tapmad.com.base.Base.setUp","children":["56c696b6-ab5b-470f-b0e6-cc67d7cd0da6"],"description":"","befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1766994261719,"stop":1766994268418}],"afters":[],"start":1766994261719,"stop":1766994268418}

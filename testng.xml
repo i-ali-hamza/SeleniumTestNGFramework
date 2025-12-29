@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="TapmadSuite" parallel="false">
+
+    <listeners>
+        <listener class-name="com.tapmad.com.utils.AllureListener"/>
+    </listeners>
+
+    <test name="LoginTest">
+        <classes>
+            <class name="com.tapmad.com.tests.LoginTest"/>
+        </classes>
+    </test>
+</suite>
